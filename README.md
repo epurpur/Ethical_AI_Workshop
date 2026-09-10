@@ -35,4 +35,21 @@ The UVA Library StatLab provides free statistics & similar technical consulting 
 
 ----------------------------------------------------------------------------------------------------
 
+## Current State of Things
+This is just my interpretation.
 
+The current paradigm around AI is that you are either with it or you'll be left behind. Today, various tech giants like Meta, X, Anthropic, OpenAI are in an arms race to develop the new and better tools to re-imagine every aspect of our lives and make billions in the process, leaving normal people like us as collateral damage. 
+
+**Power Land and Data**
+
+
+**Training Data, Privacy, Copyright**
+
+
+**Bias and Fairness**
+
+
+**Is Ethical Use of AI Even possible?**
+
+
+**Everyday best practices**
