@@ -61,8 +61,7 @@ If you want to be sure, to the extent that its possible, as ethical a tool as po
 - [Meta System Cards](https://ai.meta.com/tools/system-cards/) - Categorizes models into difference use cases
 - [Open AI GPT 5.5 Sytem Card](https://openai.com/index/gpt-5-5-system-card/) - Could not find comprehensive list of cards for all AI models so here is one specifically for GPT 5.5 
 
-**Explainable:** Is there documentation about the provenance of the data?
-- Provenance refers to the place of origin or history of an item. This is a big topic in libraries as we are concerned with capturing metadata about items in our collections. You might also hear about provenance of a work of art. This means who it was created by, who owned it, what museums was it in, etc. Data provenance for LLMs let users trace an AI answer back to the source data the model was trained on. It should also tell you where the data came from, how it was modified, and who handled the data. 
+**Explainable:** Is there documentation about the provenance of the data? Provenance refers to the place of origin or history of an item. This is a big topic in libraries as we are concerned with capturing metadata about items in our collections. You might also hear about provenance of a work of art. This means who it was created by, who owned it, what museums was it in, etc. Data provenance for LLMs let users trace an AI answer back to the source data the model was trained on. It should also tell you where the data came from, how it was modified, and who handled the data. 
 
 **Robustness:** 
 - The AI system's ability to maintain reliable, consistent performance when faced with unexpected inputs, noisy data, environmental changes, or security risks. The system should hold up to the rigors of use without crashing or leaking sensitive information. 
