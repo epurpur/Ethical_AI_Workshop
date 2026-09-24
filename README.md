@@ -35,6 +35,9 @@ The UVA Library StatLab provides free statistics & similar technical consulting 
 
 ----------------------------------------------------------------------------------------------------
 
+## AI Disclosure
+I used AI, mostly Claude, to help point me to various links and other external resources I used to verify the points I am making throughout this workshop. 
+
 ## Current State of Things
 This is just my interpretation.
 
@@ -71,8 +74,14 @@ If you want to be sure, to the extent that its possible, as ethical a tool as po
 - Can someone deliberately craft an input to make it misbehave, pass safety filters, leak its system prompt, or execute unauthorized actions?
 - Does it protect against security attacks? Especially in agentic setups where the model can take real actions?
 
-**Transparency:** It should be clearly indicated when AI is making a decision. 
-- Whether this is generated text in an AI chatbot, a decision on your college application, on your interest rate for a loan, AI systems are making impactful decisions on human lives. This should made known in a software or application where and when AI is involved. 
+**Transparency:** It should be clearly indicated when AI is making a decision and this is one of the more legally concrete tenets of these best practices. Though the law around AI use is still being formed, AI disclosure has been written into various states' laws. There are many many AI laws and lawsuits going on currently. These are just 2 examples. 
+- [California SB 243:](https://calmatters.digitaldemocracy.org/bills/ca_202520260sb243) Effective Jan 1, 2026, chatbot operators are to provide clear and conspicuous notice that the chatbot is AI and not human and to disclose the AI identity at the start of a session and at defined intervals. This applies to California AI users, not California-based companies. Any company that operates an AI service in California must comply. 
+- At home, Virginia came within one signature of being the second state (after Colorado) with a comprehensive AI law which would have required businesses using AI in high-risk decisions, such as determining your college admission acceptance or home insurance rate, to exercise care to prevent algorithmic discrimination. [Governor Glenn Youngkin](https://ogletree.com/insights-resources/blog-posts/virginia-governor-vetoes-artificial-intelligence-bill-hb-2094-what-the-veto-means-for-businesses/) vetoed it citing concerns about innovation and compliance costs.
+
+Legalities aside, here are a few best practices in everyday life that translate to concrete, actionable questions.
+- Does a product tell you, unprompted, that you are talking to an AI? Look for that disclosure. 
+- If a decision affects you, such as a job hiring decision, does the platform you are interacting with specify the name of a tool and how to request a human review? If it doesn't you are entitled to ask for that in a growing number of jurisdictions, according to law.
+- As an individual, if using AI in your own work, pick your disclosure rule <i>before</i> you need it. You'll notice I disclosed my AI use at the beginning of this workshop. 
 
 **Privacy:** How is your data being used?
 - When using many AI systems, your personal information, chat history, interactions are all being used against you for various purposes. Those purposes could be for training data for future AI use, selling your data for marketing purposes, surveillance, etc. An AI system should have a stated data privacy policy about where and how personally identifying information is being collected. Assume the worst!
