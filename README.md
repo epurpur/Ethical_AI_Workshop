@@ -92,4 +92,4 @@ It seems like a lot to check all this stuff in real life. Probably what you want
 **Do you really need it in the first place?**
 - AI use is meant to supplement human thought processes, not replace them. First you should consider if AI use is necessary for this task in the first place? Less AI use is probably good for the world!
 
-- 
+**Disclose your own AI use**- disclosure policy 
