@@ -41,10 +41,12 @@ I used AI, mostly Claude, to help point me to various links and other external r
 ## Current State of Things
 This is just my interpretation.
 
-The current paradigm around AI is that you are either with it or you'll be left behind. Today, various tech giants like Meta, X, Anthropic, OpenAI are in an arms race to develop tools to re-imagine every aspect of our lives and make billions in the process, leaving normal people in the wake as collateral damage.
+The current paradigm around AI is that you are either with it or you'll be left behind. Today, various tech giants like Meta, X, Anthropic, OpenAI are in an arms race to develop tools to re-imagine every aspect of our lives and make billions in the process, leaving normal people in the wake as collateral damage. This is widening the gulf between the haves and the have nots as AI eliminates jobs and divides us along political lines. 
+
+UVA at the institutional level is delivering the message to get on board with AI. While there are plenty of individual skeptics among the ranks of faculty, staff, and students, for the higher-ups it seems that AI is the future. I try not to be too cynical. AI has its positives too. It makes my life a lot easier every day. But do the downsides outweigh the upsides?
 
 **Evolution of underlying technology**
-
+Despite all the controversy that AI has come to represent, the technology today is interesting and is the product of an evolutionary process dating back to the 1950s and 1960s. In 1954, Georgetown University exhibited a primitive machine learning system which translated English and Russian phrases. In 1966, MIT professor Joseph Weizenbaum created the first Chatbot, which mimicked human behavior based on natural language prompts. Technologies such as Natural Language Processing (NLP), Machine Learning, and Neural Networks have all evolved over time to the point where they are today. Hardware and data storage evolved along with them. To the general public, AI first dropped in 2022 with ChatGPT, but that is far from the truth. These systems have taken decades to develop.  
 
 **Environmental Impact**
 To put it simply, AI and its associated technologies take a huge toll on the environment and the earth. "Cloud Computing" is a myth. The cloud is really a server farm somewhere, maybe Northern Virginia, in a massive data center used for various purposes, including providing the computing power to train large language models. Huge amounts of water are needed to cool the data centers, thus using this valuable resource. Tech companies are being granted tax exemptions by local politicians whose votes are being bought. On top of all that, the raw materials needed to manufacture the hardware needed in the LLM-training process such as Graphics Processing Units (GPUs), are being extracted from the earth and ruining fragile environments in the process. Unfortunately it seems inevitable that this will continue and contribute to the exacerbated increase in global warming leading to the eventual heat death of the planet. 
@@ -52,7 +54,7 @@ To put it simply, AI and its associated technologies take a huge toll on the env
 **Is Ethical Use of AI Even possible?**
 I will let you be the judge.
 
-**Everyday best practices**
+## Everyday best practices
 
 If you want to be sure, to the extent that its possible, as ethical a tool as possible, there are some things you can look for in order to trust an AI system more.
 
