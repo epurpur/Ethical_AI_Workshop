@@ -46,8 +46,11 @@ The current paradigm around AI is that you are either with it or you'll be left 
 **Evolution of underlying technology**
 
 
-**Is Ethical Use of AI Even possible?**
+**Environmental Impact**
+To put it simply, AI and its associated technologies take a huge toll on the environment and the earth. "Cloud Computing" is a myth. The cloud is really a server farm somewhere, maybe Northern Virginia, in a massive data center used for various purposes, including providing the computing power to train large language models. Huge amounts of water are needed to cool the data centers, thus using this valuable resource. Tech companies are being granted tax exemptions by local politicians whose votes are being bought. On top of all that, the raw materials needed to manufacture the hardware needed in the LLM-training process such as Graphics Processing Units (GPUs), are being extracted from the earth and ruining fragile environments in the process. Unfortunately it seems inevitable that this will continue and contribute to the exacerbated increase in global warming leading to the eventual heat death of the planet. 
 
+**Is Ethical Use of AI Even possible?**
+I will let you be the judge.
 
 **Everyday best practices**
 
@@ -80,7 +83,7 @@ Legalities aside, here are a few best practices in everyday life that translate 
 **Privacy:** How is your data being used?
 - When using many AI systems, your personal information, chat history, interactions are all being used against you for various purposes. Those purposes could be for training data for future AI use, selling your data for marketing purposes, surveillance, etc. An AI system should have a stated data privacy policy about where and how personally identifying information is being collected. Assume the worst!
 
-## Practicalities - Best practices for daily AI use
+## Practicalities - A few other daily practices
 It seems like a lot to check all this stuff in real life. Probably what you want is a way to use AI but not actively participate in the heat-death of the earth. I wish it was as easy as pointing you towards the *right* tool to use and all would be well. Unfortunately it is not so simple!
 
 **Do you really need it in the first place?**
