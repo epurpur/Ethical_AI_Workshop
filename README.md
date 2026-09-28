@@ -86,4 +86,12 @@ It seems like a lot to check all this stuff in real life. Probably what you want
 **Do you really need it in the first place?**
 - AI use is meant to supplement human thought processes, not replace them. First you should consider if AI use is necessary for this task in the first place? Less AI use is probably good for the world!
 
-**Disclose your own AI use**- disclosure policy 
+**Disclose your own AI use**- Take it upon yourself to create your own AI disclosure policy and use it in your work where you see fit. You can also include a statement about NOT using AI!
+- [University of Waterloo](https://aidframework.org/): Librarian Kari Weaver created the AID framework for crafting your own AI use policy, which you can use in your work
+- [Arizona State University](https://libguides.asu.edu/generativeai/acknowledgement): <i>For now, however, there is an expectation in academia that users to disclose when AI tools contribute meaningfully to the development of ideas, content, or structure in a project.</i>
+- [University of Melbourne](https://students.unimelb.edu.au/academic-skills/academic-integrity/acknowledging-use-of-ai-tools-and-technologies#examples) <i>If you have used an AI tool or technology in any other way (see below) in the process of completing your assessment, an acknowledgement of how you have used AI tools or technologies is required. </i>
+
+**UVA AI Tools**- UVA licenses various AI tools for the UVA community to use. They are always changing, so to see what is available it is best to take a look at the [UVA ITS AI page](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=dbe41947dbe3f91066d98f38139619db).
+- Personal information protected
+- Cost managed
+- Increased Usage limits
