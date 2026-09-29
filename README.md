@@ -36,7 +36,7 @@ The UVA Library StatLab provides free statistics & similar technical consulting 
 ----------------------------------------------------------------------------------------------------
 
 ## AI Disclosure
-I used AI, mostly Claude, to help point me to various links and other external resources I used to verify the points I am making throughout this workshop. 
+I used AI, mostly Claude, to help point me to various links and other external resources I used to verify the points I am making throughout this workshop.
 
 ## Ethics 
 To judge whether or not AI use is ethical, we should at least pause on what are ethics in the first place? [According to the dictionary definition](https://www.britannica.com/topic/ethics-philosophy), ethics are the discipline concerned with what is morally good and bad or right and wrong. The term is also applied to any system or theory of moral values or principles. Ethics are thought of as a societal judgement of right and wrong. Morals are more of a personal interpretation or credo to live by.
@@ -57,7 +57,7 @@ To put it simply, AI and its associated technologies take a huge toll on the env
 **Is Ethical Use of AI Even possible?**
 I will let you be the judge.
 
-**Follow up: Is there a difference between ethics and morals?**
+**Follow up: Is there a disconnect between ethics and morals?**
 Can AI use be ethical but not moral or vice versa?
 
 ## Everyday best practices
@@ -82,10 +82,10 @@ Whether or not AI use is ethical, there are some things you can look for in orde
 - [California SB 243:](https://calmatters.digitaldemocracy.org/bills/ca_202520260sb243) Effective Jan 1, 2026, chatbot operators are to provide clear and conspicuous notice that the chatbot is AI and not human and to disclose the AI identity at the start of a session and at defined intervals. This applies to California AI users, not California-based companies. Any company that operates an AI service in California must comply. 
 - At home, Virginia came within one signature of being the second state (after Colorado) with a comprehensive AI law which would have required businesses using AI in high-risk decisions, such as determining your college admission acceptance or home insurance rate, to exercise care to prevent algorithmic discrimination. [Governor Glenn Youngkin](https://ogletree.com/insights-resources/blog-posts/virginia-governor-vetoes-artificial-intelligence-bill-hb-2094-what-the-veto-means-for-businesses/) vetoed it citing concerns about innovation and compliance costs.
 
-Legalities aside, here are a few best practices in everyday life that translate to concrete, actionable questions.
+Legalities aside, here are a few concrete, actionable things to look for in daily life.
 - Does a product tell you, unprompted, that you are talking to an AI? Look for that disclosure. 
 - If a decision affects you, such as a job hiring decision, does the platform you are interacting with specify the name of a tool and how to request a human review? If it doesn't you are entitled to ask for that in a growing number of jurisdictions, according to law.
-- As an individual, if using AI in your own work, pick your disclosure rule <i>before</i> you need it. You'll notice I disclosed my AI use at the beginning of this workshop. 
+
 
 **Privacy:** How is your data being used?
 - When using many AI systems, your personal information, chat history, interactions are all being used against you for various purposes. Those purposes could be for training data for future AI use, selling your data for marketing purposes, surveillance, etc. An AI system should have a stated data privacy policy about where and how personally identifying information is being collected. Assume the worst!
@@ -96,7 +96,7 @@ It seems like a lot to check all this stuff in real life. Probably what you want
 **Do you really need it in the first place?**
 - AI use is meant to supplement human thought processes, not replace them. First you should consider if AI use is necessary for this task in the first place? Less AI use is probably good for the world!
 
-**Disclose your own AI use**- Take it upon yourself to create your own AI disclosure policy and use it in your work where you see fit. You can also include a statement about NOT using AI!
+**Disclose your own AI use**- Take it upon yourself to create your own AI disclosure policy and use it in your work where you see fit. You can also include a statement about NOT using AI! You may notice I included one at the top of this workshop page. 
 - [University of Waterloo](https://aidframework.org/): Librarian Kari Weaver created the AID framework for crafting your own AI use policy, which you can use in your work
 - [Arizona State University](https://libguides.asu.edu/generativeai/acknowledgement): <i>For now, however, there is an expectation in academia that users to disclose when AI tools contribute meaningfully to the development of ideas, content, or structure in a project.</i>
 - [University of Melbourne](https://students.unimelb.edu.au/academic-skills/academic-integrity/acknowledging-use-of-ai-tools-and-technologies#examples) <i>If you have used an AI tool or technology in any other way (see below) in the process of completing your assessment, an acknowledgement of how you have used AI tools or technologies is required. </i>
