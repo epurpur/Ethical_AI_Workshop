@@ -1,7 +1,7 @@
 # Ethical AI Use Workshop
 
 ```
-Last updated 09/10/26
+Last updated 09/29/26
 ```
 
 Erich Purpur
@@ -38,21 +38,27 @@ The UVA Library StatLab provides free statistics & similar technical consulting 
 ## AI Disclosure
 I used AI, mostly Claude, to help point me to various links and other external resources I used to verify the points I am making throughout this workshop. 
 
+## Ethics 
+To judge whether or not AI use is ethical, we should at least pause on what are ethics in the first place? [According to the dictionary definition](https://www.britannica.com/topic/ethics-philosophy), ethics are the discipline concerned with what is morally good and bad or right and wrong. The term is also applied to any system or theory of moral values or principles. Ethics can be personal or societal. You can adopt a code of ethics that in not necessarily the same as what society at large agrees with. 
+
 ## Current State of Things
 This is just my interpretation.
 
-The current paradigm around AI is that you are either with it or you'll be left behind. Today, various tech giants like Meta, X, Anthropic, OpenAI are in an arms race to develop tools to re-imagine every aspect of our lives and make billions in the process, leaving normal people in the wake as collateral damage. This is widening the gulf between the haves and the have nots as AI eliminates jobs and divides us along political lines. 
+The current paradigm around AI is that you are either with it or you'll be left behind. Today, various tech giants like Meta, X, Anthropic, OpenAI are in an arms race to develop tools to re-imagine every aspect of our lives and make billions in the process, leaving normal people in the wake as collateral damage. This is widening the gulf between the haves and the have nots as AI eliminates jobs and divides us along political lines. A quick google search of "ethical AI use" will deliver the promises of [IBM](https://www.ibm.com/products/watsonx-governance) and [Accenture](https://www.accenture.com/en/services/ai-data). Anthropic's Claude purports to be the "ethical AI" and has even [written a constitution](https://www.anthropic.com/constitution) explaining their vision. In the constitution is a section on "Being Broadly Ethical" and states that <i>Our central aspiration is for Claude to be a genuinely good, wise, and virtuous agent.</i> How nice of Anthropic for looking out for their users!
 
 UVA at the institutional level is delivering the message to get on board with AI. While there are plenty of individual skeptics among the ranks of faculty, staff, and students, for the higher-ups it seems that AI is the future. I try not to be too cynical. AI has its positives too. It makes my life a lot easier every day. But do the downsides outweigh the upsides?
 
 **Evolution of underlying technology**
-Despite all the controversy that AI has come to represent, the technology today is interesting and is the product of an evolutionary process dating back to the 1950s and 1960s. In 1954, Georgetown University exhibited a primitive machine learning system which translated English and Russian phrases. In 1966, MIT professor Joseph Weizenbaum created the first Chatbot, which mimicked human behavior based on natural language prompts. Technologies such as Natural Language Processing (NLP), Machine Learning, and Neural Networks have all evolved over time to the point where they are today. Hardware and data storage evolved along with them. To the general public, AI first dropped in 2022 with ChatGPT, but that is far from the truth. These systems have taken decades to develop.  
+Despite all the controversy that AI has come to represent, the technology today is interesting and is the product of an evolutionary process dating back to the 1950s. In 1954, Georgetown University exhibited a primitive machine learning system which translated between English and Russian phrases. In 1966, MIT professor Joseph Weizenbaum created the first Chatbot ([ELIZA](https://en.wikipedia.org/wiki/ELIZA)), which mimicked human behavior based on natural language prompts. Technologies such as Natural Language Processing (NLP), Machine Learning, and Neural Networks have all evolved over time to the point where they are today. Hardware and data storage evolved along with them. To the general public, AI first dropped in 2022 with ChatGPT, but that is far from the truth. These systems have taken decades to develop.  
 
 **Environmental Impact**
 To put it simply, AI and its associated technologies take a huge toll on the environment and the earth. "Cloud Computing" is a myth. The cloud is really a server farm somewhere, maybe Northern Virginia, in a massive data center used for various purposes, including providing the computing power to train large language models. Huge amounts of water are needed to cool the data centers, thus using this valuable resource. Tech companies are being granted tax exemptions by local politicians whose votes are being bought. On top of all that, the raw materials needed to manufacture the hardware needed in the LLM-training process such as Graphics Processing Units (GPUs), are being extracted from the earth and ruining fragile environments in the process. Unfortunately it seems inevitable that this will continue and contribute to the exacerbated increase in global warming leading to the eventual heat death of the planet. 
 
 **Is Ethical Use of AI Even possible?**
 I will let you be the judge.
+
+**Follow up: Is there a difference between ethics and morals?**
+Can AI use be ethical but not moral or vice versa?
 
 ## Everyday best practices
 
