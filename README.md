@@ -39,7 +39,7 @@ The UVA Library StatLab provides free statistics & similar technical consulting 
 I used AI, mostly Claude, to help point me to various links and other external resources I used to verify the points I am making throughout this workshop. 
 
 ## Ethics 
-To judge whether or not AI use is ethical, we should at least pause on what are ethics in the first place? [According to the dictionary definition](https://www.britannica.com/topic/ethics-philosophy), ethics are the discipline concerned with what is morally good and bad or right and wrong. The term is also applied to any system or theory of moral values or principles. Ethics can be personal or societal. You can adopt a code of ethics that in not necessarily the same as what society at large agrees with.
+To judge whether or not AI use is ethical, we should at least pause on what are ethics in the first place? [According to the dictionary definition](https://www.britannica.com/topic/ethics-philosophy), ethics are the discipline concerned with what is morally good and bad or right and wrong. The term is also applied to any system or theory of moral values or principles. Ethics are thought of as a societal judgement of right and wrong. Morals are more of a personal interpretation or credo to live by.
 
 ## Current State of Things
 This is just my interpretation.
