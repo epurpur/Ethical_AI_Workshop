@@ -91,7 +91,7 @@ Legalities aside, here are a few best practices in everyday life that translate 
 **Privacy:** How is your data being used?
 - When using many AI systems, your personal information, chat history, interactions are all being used against you for various purposes. Those purposes could be for training data for future AI use, selling your data for marketing purposes, surveillance, etc. An AI system should have a stated data privacy policy about where and how personally identifying information is being collected. Assume the worst!
 
-## Practicalities - A few other daily practices
+## A few other daily practices
 It seems like a lot to check all this stuff in real life. Probably what you want is a way to use AI but not actively participate in the heat-death of the earth. I wish it was as easy as pointing you towards the *right* tool to use and all would be well. Unfortunately it is not so simple!
 
 **Do you really need it in the first place?**
